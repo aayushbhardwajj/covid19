@@ -1,2 +1,2 @@
 # covid19
-Analytics on COVID 19
+Analytic on COVID 19
